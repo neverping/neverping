@@ -24,7 +24,7 @@
 
 DevOps Engineer, focused in Infrastructure as a code, testing, monitoring, improving legacy services.
 
-### Technology interests
+### Technology interests 📡
 
 #### Programming ⌨️
 
@@ -35,14 +35,14 @@ Ruby, Python, Bash.
 Sun Solaris, CentOS, Red Hat Enterprise Linux, Ubuntu Server LTS, LinuxMint (user and supporter).
 Former Windows and MacOSX user
 
-### Monitoring tools 📈
+#### Monitoring tools 📈
 
 Prometheus, Grafana, Zabbix, Splunk, Datadog
 
-### System services 📟
+#### System services 📟
 
 nginx, Apache HTTPD server, Gunicorn, Puppet Open Source, The Foreman, Vagrant, Virtual Box.
 
-### Personal interests 🎮
+#### Personal interests 🎮
 
 Retro Video games, mobile games, travelling, music, movies, memes.
