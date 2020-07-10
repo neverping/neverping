@@ -13,7 +13,12 @@
 
 ### Personal interests 🎮
 
-Retro Video games, mobile games, travelling, music, movies, memes.
+* Retro Video games
+* mobile games
+* travelling
+* music
+* movies
+* memes
 
 
 ### Education 🎓
