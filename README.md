@@ -10,22 +10,29 @@
 * Lived in Rio de Janeiro and Teresópolis (short period), RJ - Brazil
 * Currently living in Copenhagen - Denmark
 
+
+### Personal interests 🎮
+
+Retro Video games, mobile games, travelling, music, movies, memes.
+
+
 ### Education 🎓
 
 * Technical High School in Electronics in Escola Técnica Rezende-Rammel (ETRR)
 * Associate's degree in Computer networks at Universidade Estácio de Sá
+
 
 ### Certifications 🧾
 * AWS Certified Developer - Associate (2018)
 * AWS Certified Solutions Architect - Associate (2018)
 * AWS Certified SysOp Administrator - Associate (2018)
 
+
 ### Professional 🏢
 
 DevOps Engineer, focused in Infrastructure as a code, testing, monitoring, improving legacy services.
 
 ### Technology interests 📡
-
 #### Programming ⌨️
 
 Ruby, Python, Bash.
@@ -42,7 +49,3 @@ Prometheus, Grafana, Zabbix, Splunk, Datadog
 #### System services 📟
 
 nginx, Apache HTTPD server, Gunicorn, Puppet Open Source, The Foreman, Vagrant, Virtual Box.
-
-#### Personal interests 🎮
-
-Retro Video games, mobile games, travelling, music, movies, memes.
