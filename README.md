@@ -31,6 +31,8 @@
 * AWS Certified Developer - Associate (2018)
 * AWS Certified Solutions Architect - Associate (2018)
 * AWS Certified SysOp Administrator - Associate (2018)
+* Linux Foundation Certified System Administrator (2021)
+* LPIC-1 and LPIC-2
 
 
 ### Professional 🏢
@@ -40,17 +42,17 @@ DevOps Engineer, focused in Infrastructure as a code, testing, monitoring, impro
 ### Technology interests 📡
 #### Programming ⌨️
 
-Ruby, Python, Bash.
+Python, Bash, Ruby.
 
 #### Operating System 💽
 
 Sun Solaris, CentOS, Red Hat Enterprise Linux, Ubuntu Server LTS, LinuxMint (user and supporter).
-Former Windows and MacOSX user
+Former Windows and MacOSX user.
 
 #### Monitoring tools 📈
 
-Prometheus, Grafana, Zabbix, Splunk, Datadog
+Prometheus, Grafana, Zabbix, Splunk, Datadog.
 
 #### System services 📟
 
-nginx, Apache HTTPD server, Gunicorn, Puppet Open Source, The Foreman, Vagrant, Virtual Box.
+nginx, HAProxy, Apache HTTPD server, Gunicorn, Puppet Open Source, The Foreman, Vagrant, Virtual Box, Jenkins, Kubernetes, Docker.
