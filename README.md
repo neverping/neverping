@@ -10,15 +10,29 @@
 * Lived in Rio de Janeiro and Teresópolis (short period), RJ - Brazil
 * Currently living in Copenhagen - Denmark
 
+### Cities I have visted ✈️
+
+* Brazil (Not a complete list, but Rio de Janeiro, São Paulo, Manaus, Aparecida do Norte, Teresópolis, and Petrópolis are the main ones)
+* USA (San Franciso - CA, Portland - OR, New York City - NY)
+* Canada (Vancouver - BC, Montreal - QC, Toronto - ON)
+* England (London)
+* Scotland (Rosyth, Dunfermline, Edinburgh)
+* Denmark (Copenhagen, Dragør, Roskilde, Helsingør, Frederikssund)
+* Sweden (Malmö)
+* The Netherlands (Amsterdan)
+* Belgium (Brusssels, Brugges, Antwerp, Gent)
+* Ireland (Dublin)
+* Japan (Tokyo, Kyoto, Osaka)
+
 
 ### Personal interests 🎮
 
 * Retro Video games
-* mobile games
-* travelling
-* music
-* movies
-* memes
+* Mobile games
+* Travelling
+* Music
+* Movies
+* Memes
 
 
 ### Education 🎓
@@ -55,4 +69,8 @@ Prometheus, Grafana, Zabbix, Splunk, Datadog.
 
 #### System services 📟
 
-nginx, HAProxy, Apache HTTPD server, Gunicorn, Puppet Open Source, The Foreman, Vagrant, Virtual Box, Jenkins, Kubernetes, Docker.
+nginx, HAProxy, Apache HTTPD server, Gunicorn, Puppet Open Source, The Foreman, Virtualbox, Hashicorp products (Vagrant, Consul, Terraform, Vault), Jenkins, Kubernetes, Docker.
+
+#### Cloud Providers ☁️
+
+Apache Cloud Stack, AWS, GCP.
