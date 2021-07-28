@@ -10,7 +10,7 @@
 * Lived in Rio de Janeiro and Teresópolis (short period), RJ - Brazil
 * Currently living in Copenhagen - Denmark
 
-### Cities I have visted ✈️
+### Places I have visted ✈️
 
 * Brazil (Not a complete list, but Rio de Janeiro, São Paulo, Manaus, Aparecida do Norte, Teresópolis, and Petrópolis are the main ones)
 * USA (San Franciso - CA, Portland - OR, New York City - NY)
@@ -23,6 +23,7 @@
 * Belgium (Brusssels, Brugges, Antwerp, Gent)
 * Ireland (Dublin)
 * Japan (Tokyo, Kyoto, Osaka)
+* Germany (Munich, Füssen)
 
 
 ### Personal interests 🎮
