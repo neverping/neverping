@@ -24,6 +24,7 @@
 * Ireland (Dublin)
 * Japan (Tokyo, Kyoto, Osaka)
 * Germany (Munich, Füssen)
+* Faroe Islands (Tórshavn as the main cities. Visited some few villages around)
 
 
 ### Personal interests 🎮
@@ -34,6 +35,7 @@
 * Music
 * Movies
 * Memes
+* Computer stuff in general
 
 
 ### Education 🎓
