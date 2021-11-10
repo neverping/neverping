@@ -10,7 +10,7 @@
 * Lived in Rio de Janeiro and Teresópolis (short period), RJ - Brazil
 * Currently living in Copenhagen - Denmark
 
-### Places I have visted ✈️
+### Places I have visited ✈️
 
 * Brazil (Not a complete list, but Rio de Janeiro, São Paulo, Manaus, Aparecida do Norte, Teresópolis, and Petrópolis are the main ones)
 * USA (San Franciso - CA, Portland - OR, New York City - NY)
@@ -24,7 +24,7 @@
 * Ireland (Dublin)
 * Japan (Tokyo, Kyoto, Osaka)
 * Germany (Munich, Füssen)
-* Faroe Islands (Tórshavn as the main cities. Visited some few villages around)
+* Faroe Islands (Tórshavn as the main city. Visited a few villages around)
 
 
 ### Personal interests 🎮
@@ -41,20 +41,21 @@
 ### Education 🎓
 
 * Technical High School in Electronics in Escola Técnica Rezende-Rammel (ETRR)
-* Associate's degree in Computer networks at Universidade Estácio de Sá
+* Associate's degree in Computer Networks at Universidade Estácio de Sá
 
 
 ### Certifications 🧾
 * AWS Certified Developer - Associate (2018)
 * AWS Certified Solutions Architect - Associate (2018)
 * AWS Certified SysOp Administrator - Associate (2018)
-* Linux Foundation Certified System Administrator (2021)
-* LPIC-1 and LPIC-2
+* Linux Foundation Certified System Administrator - LFCSA (2021)
+* Certified Kubernetes Administrator by Linux Foundation - CKA (2021)
+* LPIC-1 and LPIC-2 by Linux Professional Institute
 
 
 ### Professional 🏢
 
-DevOps Engineer, focused in Infrastructure as a code, testing, monitoring, improving legacy services.
+DevOps Engineer, focused on Infrastructure as a code, testing, monitoring, improving legacy services.
 
 ### Technology interests 📡
 #### Programming ⌨️
