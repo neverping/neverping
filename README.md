@@ -29,12 +29,13 @@
 
 ### Personal interests 🎮
 
-* Retro Video games
+* Retro video games
 * Mobile games
 * Travelling
 * Music
 * Movies
 * Memes
+* Raspberry Pi or SoC solutions
 * Computer stuff in general
 
 
@@ -50,14 +51,18 @@
 * AWS Certified SysOp Administrator - Associate (2018)
 * Linux Foundation Certified System Administrator - LFCSA (2021)
 * Certified Kubernetes Administrator by Linux Foundation - CKA (2021)
+* Google Cloud Platform - Associate Cloud Engineer - GCP ACE (2021)
 * LPIC-1 and LPIC-2 by Linux Professional Institute
 
 
 ### Professional 🏢
 
-DevOps Engineer, focused on Infrastructure as a code, testing, monitoring, improving legacy services.
+DevOps Engineer, focused on Infrastructure as a code, testing, monitoring, automation, and improving legacy services.
 
 ### Technology interests 📡
+
+This ain't a complete list, but listing the highlights.
+
 #### Programming ⌨️
 
 Python, Bash, Ruby.
@@ -65,7 +70,7 @@ Python, Bash, Ruby.
 #### Operating System 💽
 
 Sun Solaris, CentOS, Red Hat Enterprise Linux, Ubuntu Server LTS, LinuxMint (user and supporter).
-Former Windows and MacOSX user.
+Former Windows and MacOSX user, but not an enthusiast on both of them anymore.
 
 #### Monitoring tools 📈
 
@@ -77,4 +82,4 @@ nginx, HAProxy, Apache HTTPD server, Gunicorn, Puppet Open Source, The Foreman, 
 
 #### Cloud Providers ☁️
 
-Apache Cloud Stack, AWS, GCP.
+Apache Cloud Stack, AWS, and GCP. No interest in Azure or Oracle Cloud Infrastructure.
