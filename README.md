@@ -25,7 +25,7 @@
 * Japan (Tokyo, Kyoto, Osaka)
 * Germany (Munich, Füssen)
 * Faroe Islands (Tórshavn as the main city. Visited a few villages around)
-
+* France (Chamonix)
 
 ### Personal interests 🎮
 
@@ -52,6 +52,7 @@
 * Linux Foundation Certified System Administrator - LFCSA (2021)
 * Certified Kubernetes Administrator by Linux Foundation - CKA (2021)
 * Google Cloud Platform - Associate Cloud Engineer - GCP ACE (2021)
+* HashiCorp Vault Associate (2022)
 * LPIC-1 and LPIC-2 by Linux Professional Institute
 
 
