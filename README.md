@@ -17,7 +17,7 @@
 * Canada (Vancouver - BC, Montreal - QC, Toronto - ON)
 * England (London)
 * Scotland (Rosyth, Dunfermline, Edinburgh)
-* Denmark (Copenhagen, Dragør, Roskilde, Helsingør, Frederikssund)
+* Denmark (Copenhagen, Dragør, Roskilde, Helsingør, Frederikssund, Legoland, Århus)
 * Sweden (Malmö)
 * The Netherlands (Amsterdan)
 * Belgium (Brusssels, Brugges, Antwerp, Gent)
