@@ -22,7 +22,7 @@
 * The Netherlands (Amsterdan)
 * Belgium (Brusssels, Brugges, Antwerp, Gent)
 * Ireland (Dublin)
-* Japan (Tokyo, Kyoto, Osaka)
+* Japan (Tokyo, Kyoto, Osaka, Iga)
 * Germany (Munich, Füssen)
 * Faroe Islands (Tórshavn as the main city. Visited a few villages around)
 * France (Chamonix)
@@ -67,12 +67,12 @@ This ain't a complete list, but listing the highlights.
 
 #### Programming ⌨️
 
-Python, Bash, Ruby.
+Python, Bash, Ruby. Not a developer, so I know a few things here and there.
 
 #### Operating System 💽
 
 Sun Solaris, CentOS, Red Hat Enterprise Linux, Ubuntu Server LTS, LinuxMint (user and supporter).
-Former Windows and MacOSX user, but not an enthusiast on both of them anymore.
+I also Windows and MacOSX, but not an enthusiast on both of them anymore.
 
 #### Monitoring tools 📈
 
@@ -85,3 +85,12 @@ nginx, HAProxy, Apache HTTPD server, Gunicorn, Puppet Open Source, The Foreman, 
 #### Cloud Providers ☁️
 
 Apache Cloud Stack, AWS, and GCP. No interest in Azure or Oracle Cloud Infrastructure.
+
+#### Conferences attended 🎟
+
+FISL - Forum Internal de Software Livre (2007, 2008, 2009)
+OSCON - O'Reilly Open Source Conference (2010, 2011)
+Velocity (2012, 2013)
+CentOS Connect (2023)
+FOSDEM - Free Open Source Developers' European Meeting - (2017, 2018, 2019, 2020, 2023)
+Cfgmgmt - Config Management Camp - (2019, 2020, 2023)
