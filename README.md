@@ -89,8 +89,13 @@ Apache Cloud Stack, AWS, and GCP. No interest in Azure or Oracle Cloud Infrastru
 #### Conferences attended 🎟
 
 FISL - Forum Internal de Software Livre (2007, 2008, 2009)
+
 OSCON - O'Reilly Open Source Conference (2010, 2011)
+
 Velocity (2012, 2013)
+
 CentOS Connect (2023)
+
 FOSDEM - Free Open Source Developers' European Meeting - (2017, 2018, 2019, 2020, 2023)
+
 Cfgmgmt - Config Management Camp - (2019, 2020, 2023)
