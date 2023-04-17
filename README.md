@@ -26,7 +26,7 @@
 * Germany (Munich, Füssen)
 * Faroe Islands (Tórshavn as the main city. Visited a few villages around)
 * France (Chamonix)
-* Portugal (Fátima, Lisbon, Porto, Guimarães)
+* Portugal (Fátima, Lisbon, Porto, Guimarães, Sintra)
 
 ### Personal interests 🎮
 
