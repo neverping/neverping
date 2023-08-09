@@ -27,6 +27,7 @@
 * Faroe Islands (Tórshavn as the main city. Visited a few villages around)
 * France (Chamonix)
 * Portugal (Fátima, Lisbon, Porto, Guimarães, Sintra)
+* Iceland (Reykjavik, but visited the southern part of the country)
 
 ### Personal interests 🎮
 
@@ -98,4 +99,4 @@ CentOS Connect (2023)
 
 FOSDEM - Free Open Source Developers' European Meeting - (2017, 2018, 2019, 2020, 2023)
 
-Cfgmgmt - Config Management Camp - (2019, 2020, 2023)
+CfgMgmt - Config Management Camp - (2019, 2020, 2023)
