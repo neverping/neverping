@@ -12,7 +12,7 @@
 
 ### Places I have visited ✈️
 
-* Brazil (Not a complete list, but Rio de Janeiro, São Paulo, Manaus, Aparecida do Norte, Teresópolis, and Petrópolis are the main ones)
+* Brazil (This is not a complete list, but Rio de Janeiro, São Paulo, Manaus, Aparecida do Norte, Teresópolis, Curitiba, Porto Alegre, Florianópolis, Blumenau, Pomerode, and Petrópolis)
 * USA (San Franciso - CA, Portland - OR, New York City - NY)
 * Canada (Vancouver - BC, Montreal - QC, Toronto - ON)
 * England (London)
@@ -37,7 +37,7 @@
 * Music
 * Movies
 * Memes
-* Raspberry Pi or SoC solutions
+* Raspberry Pi or SoC solutions, mostly ARM64.
 * Computer stuff in general
 
 
@@ -60,20 +60,20 @@
 
 ### Professional 🏢
 
-DevOps Engineer, focused on Infrastructure as a code, testing, monitoring, automation, and improving legacy services.
+DevOps Engineer focused on Infrastructure as a code, testing, monitoring, automation, and improving legacy services.
 
 ### Technology interests 📡
 
-This ain't a complete list, but listing the highlights.
+This isn't a complete list, but listing the highlights.
 
 #### Programming ⌨️
 
-Python, Bash, Ruby. Not a developer, so I know a few things here and there.
+Python, Bash, Ruby. I am not a developer, so I know a few things here and there.
 
 #### Operating System 💽
 
 Sun Solaris, CentOS, Red Hat Enterprise Linux, Ubuntu Server LTS, LinuxMint (user and supporter).
-I also Windows and MacOSX, but not an enthusiast on both of them anymore.
+I also use Windows and MacOSX, but I am no longer an enthusiast on either.
 
 #### Monitoring tools 📈
 
