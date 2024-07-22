@@ -17,14 +17,14 @@
 * Canada (Vancouver - BC, Montreal - QC, Toronto - ON)
 * England (London)
 * Scotland (Rosyth, Dunfermline, Edinburgh)
-* Denmark (Copenhagen, Dragør, Roskilde, Helsingør, Frederikssund, Legoland, Århus)
+* Denmark (Copenhagen, Dragør, Roskilde, Helsingør, Frederikssund, Legoland, Århus, Jelling, Esberg, Vejle, Ribe, Billund)
 * Sweden (Malmö)
 * The Netherlands (Amsterdan)
 * Belgium (Brusssels, Brugges, Antwerp, Gent)
 * Ireland (Dublin)
 * Japan (Tokyo, Kyoto, Osaka, Iga)
 * Germany (Munich, Füssen)
-* Faroe Islands (Tórshavn as the main city. Visited a few villages around)
+* Faroe Islands (Tórshavn as the central city. Visited a few villages around)
 * France (Chamonix)
 * Portugal (Fátima, Lisbon, Porto, Guimarães, Sintra)
 * Iceland (Reykjavik, but visited the southern part of the country)
@@ -53,6 +53,7 @@
 * AWS Certified SysOp Administrator - Associate (2018)
 * Linux Foundation Certified System Administrator - LFCSA (2021)
 * Certified Kubernetes Administrator by Linux Foundation - CKA (2021)
+* Certified Kubernetes Application Developer by Linux Foundation - CKA (2024)
 * Google Cloud Platform - Associate Cloud Engineer - GCP ACE (2021)
 * HashiCorp Vault Associate (2022)
 * LPIC-1 and LPIC-2 by Linux Professional Institute
@@ -64,7 +65,7 @@ DevOps Engineer focused on Infrastructure as a code, testing, monitoring, automa
 
 ### Technology interests 📡
 
-This isn't a complete list, but listing the highlights.
+This is a partial list, but listing the highlights.
 
 #### Programming ⌨️
 
@@ -73,7 +74,7 @@ Python, Bash, Ruby. I am not a developer, so I know a few things here and there.
 #### Operating System 💽
 
 Sun Solaris, CentOS, Red Hat Enterprise Linux, Ubuntu Server LTS, LinuxMint (user and supporter).
-I also use Windows and MacOSX, but I am no longer an enthusiast on either.
+I also use Windows and MacOSX but am no longer an enthusiast.
 
 #### Monitoring tools 📈
 
@@ -85,7 +86,7 @@ nginx, HAProxy, Apache HTTPD server, Gunicorn, Puppet Open Source, The Foreman, 
 
 #### Cloud Providers ☁️
 
-Apache Cloud Stack, AWS, and GCP. No interest in Azure or Oracle Cloud Infrastructure.
+Apache Cloud Stack, AWS, and GCP. One day, I will try Azure or Oracle Cloud Infrastructure.
 
 #### Conferences attended 🎟
 
@@ -95,8 +96,8 @@ OSCON - O'Reilly Open Source Conference (2010, 2011)
 
 Velocity (2012, 2013)
 
-CentOS Connect (2023)
+CentOS Connect (2023, 2024)
 
-FOSDEM - Free Open Source Developers' European Meeting - (2017, 2018, 2019, 2020, 2023)
+FOSDEM - Free Open Source Developers' European Meeting - (2017, 2018, 2019, 2020, 2023, 2024)
 
-CfgMgmt - Config Management Camp - (2019, 2020, 2023)
+CfgMgmt - Config Management Camp - (2019, 2020, 2023, 2024)
