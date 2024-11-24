@@ -1,6 +1,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/neverping)](https://github.com/neverping)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-braga-da-silva-012b9547/)](https://www.linkedin.com/in/willian-braga-da-silva-012b9547/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neverping/)](https://www.linkedin.com/in/neverping/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/neverping)](https://twitter.com/neverping)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?link=https://www.instagram.com/neverping/)](https://www.instagram.com/neverping/)
 
