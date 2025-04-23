@@ -8,16 +8,16 @@
 
 * Born in São Paulo, SP - Brazil
 * Lived in Rio de Janeiro and Teresópolis (short period), RJ - Brazil
-* Currently living in Copenhagen - Denmark
+* Currently living in Copenhagen, Denmark
 
 ### Places I have visited ✈️
 
 * Brazil (This is not a complete list, but Rio de Janeiro, São Paulo, Manaus, Aparecida do Norte, Teresópolis, Curitiba, Porto Alegre, Florianópolis, Blumenau, Pomerode, and Petrópolis)
-* USA (San Franciso - CA, Portland - OR, New York City - NY)
+* USA (San Francisco - CA, Portland - OR, New York City - NY)
 * Canada (Vancouver - BC, Montreal - QC, Toronto - ON)
 * England (London)
 * Scotland (Rosyth, Dunfermline, Edinburgh)
-* Denmark (Copenhagen, Dragør, Roskilde, Helsingør, Frederikssund, Legoland, Århus, Jelling, Esberg, Vejle, Ribe, Billund)
+* Denmark (Copenhagen, Dragør, Roskilde, Helsingør, Frederikssund, Legoland, Århus, Jelling, Esberg, Vejle, Ribe, Billund, Odense)
 * Sweden (Malmö)
 * The Netherlands (Amsterdan)
 * Belgium (Brusssels, Brugges, Antwerp, Gent)
@@ -65,16 +65,16 @@ DevOps Engineer focused on Infrastructure as a code, testing, monitoring, automa
 
 ### Technology interests 📡
 
-This is a partial list, but listing the highlights.
+This is a partial list, but it lists the highlights.
 
 #### Programming ⌨️
 
-Python, Bash, Ruby. I am not a developer, so I know a few things here and there.
+Python, Bash, and Ruby. I am not a developer, so I know a few things.
 
 #### Operating System 💽
 
-Sun Solaris, CentOS, Red Hat Enterprise Linux, Ubuntu Server LTS, LinuxMint (user and supporter).
-I also use Windows and MacOSX but am no longer an enthusiast.
+Sun Solaris, CentOS, Red Hat Enterprise Linux, Ubuntu Server LTS, Linux Mint, and Fedora (current system).
+I also use Windows and Mac OS X.
 
 #### Monitoring tools 📈
 
@@ -96,8 +96,8 @@ OSCON - O'Reilly Open Source Conference (2010, 2011)
 
 Velocity (2012, 2013)
 
-CentOS Connect (2023, 2024)
+CentOS Connect (2023, 2024, 2025)
 
-FOSDEM - Free Open Source Developers' European Meeting - (2017, 2018, 2019, 2020, 2023, 2024)
+FOSDEM - Free Open Source Developers' European Meeting - (2017, 2018, 2019, 2020, 2023, 2024, 2025)
 
 CfgMgmt - Config Management Camp - (2019, 2020, 2023, 2024)
